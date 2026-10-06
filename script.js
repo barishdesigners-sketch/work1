@@ -106,7 +106,7 @@
       map: C,
     },
   ];
-  var ae = "assets/ttk/";
+  var ae = "";
   var Ne = {
     "dress-code": "dress_code.webp",
     dresscode: "dress_code.webp",
